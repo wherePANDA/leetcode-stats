@@ -1,4 +1,4 @@
-# 🧠 LeetCode Stats — Live LeetCode Profile Dashboard
+# LeetCode Stats — Live LeetCode Profile Dashboard
 
 A lightweight, elegant web app to visualize **LeetCode** stats with charts, KPIs, and a ready‑to‑share PNG card.  
 Built with **PHP**, **TailwindCSS**, **Chart.js**, and **HTML2Canvas**.
@@ -136,16 +136,6 @@ curl "http://localhost:8080/leetcode_api.php?user=wherePANDA"
 ```
 
 You should receive a JSON payload with `username`, `name`, `avatar`, `ranking`, `country`, `reputation`, and `stats` (easy/medium/hard solved + submissions).
-
----
-
-## 🖼️ Screenshots (optional)
-
-Add your own screenshots and reference them here, e.g.:
-```markdown
-![Dashboard](assets/preview-dashboard.png)
-![Shareable Card](assets/preview-card.png)
-```
 
 ---
 
